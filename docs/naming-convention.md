@@ -10,6 +10,6 @@ This helps differentiate between group types (Security/Distribution/M365), and a
 - SEC-LOC-TAMPA
 ## User Principal Names
 UPN value will be named after the user's first and last name, with a period separating the two.
-
+### Example
+- first.lastname@domain.com
 Users with similar names may have a number appended to their UPN. 
-first.lastname@domain.com
