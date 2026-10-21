@@ -1,9 +1,9 @@
 # Identity Naming Convention
 This document outlines the standard naming convention for groups and user principals.
 ## Groups
-<SEC>-<Dimension>-<Value>
+"<SEC>-<Dimension>-<Value>"
 ### Examples
-- <SEC>-<DEPT>-<RADIOLOGY>
-- <SEC>-<ROLE>-<RN>
+- "<SEC>-<DEPT>-<RADIOLOGY>"
+- "<SEC>-<ROLE>-<RN>"
 ## User Principal Names
 first.lastname@domain.com
